@@ -18,7 +18,7 @@ In like fashion, the `edit` and `update` actions have a similar convention:
 
 - The `update` action will be the method that updates the database record itself
 
-## Rendering the `edit` form
+## Rendering the `edit` form 
 
 To start off, let's draw a `get` route for our edit form. Since the form will
 need to know which record is being edited, this will need to be a dynamic route
